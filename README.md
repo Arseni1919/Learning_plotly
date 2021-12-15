@@ -312,9 +312,11 @@ fig = px.line(att_df, x='solutions', y='score', facet_col='subject',
              facet_col_wrap=5, title='Scores Based on Attention')
 fig
 ```
+
 |                    |                    |
 |:------------------:|:------------------:|
 | ![](static/f1.png) | ![](static/f2.png) |
+
 ![](static/f3.png) 
 
 
