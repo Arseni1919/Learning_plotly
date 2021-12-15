@@ -347,6 +347,4 @@ px.bar(df_cnt, x="continent", y="pop", color="continent",
 - [blog | about git - 1](https://www.cloudbees.com/blog/git-detached-head)
 - [blog | about git - 2](https://www.varonis.com/blog/git-branching/)
 - [youtube | tutorial](https://www.youtube.com/watch?v=GGL6U0k8WYA&ab_channel=DerekBanas)
-- []()
-- []()
-- []()
+- [plotly | add buttons](https://plotly.com/python/range-slider/)
